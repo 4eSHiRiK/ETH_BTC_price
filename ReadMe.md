@@ -8,3 +8,5 @@
 Решение:
 
 Для данной задачи я применил линейную регрессию и использовал метод train_test_split библиотеки Scikit-learn. В качестве исходных данных для обучения модели использовал csv файл цен ETHUSDT и BTCUSDT за прошлые года. 
+
+Ссылка на GitHub: https://github.com/4eSHiRiK/ETH_BTC_price
